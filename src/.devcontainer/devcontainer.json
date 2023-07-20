@@ -1,0 +1,13 @@
+{
+	"name": "Existing Dockerfile",
+	"image": "mcr.microsoft.com/dotnet/sdk:6.0",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csdevkit",
+				"ms-vscode.vs-keybindings",
+				"ms-dotnettools.csharp"
+			]
+		}
+	}
+}
